@@ -1,1 +1,2 @@
-﻿dev
+config:
+  info:  master config-dev.yml version = 1.0
