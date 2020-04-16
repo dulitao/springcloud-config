@@ -1,1 +1,2 @@
-pro
+config:
+  info:  master config-pro.yml version = 1.0
